@@ -18,7 +18,7 @@ tagline:
 description:        "E235|Pierce College|SP19"
 host:               127.0.0.1
 url:                ""
-baseurl:            "/e235"
+baseurl:            "/235v2"
 email:              jloan@pierce.ctc.edu
 
 
