@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/ 
 ---
+## Our Work
 
 The activity and work of this class will oscillate between holistic, big picture stuff and more seemingly nuts and bolts considerations of composition across academic, professional and personal situations.
 
@@ -31,3 +32,11 @@ My goal is that the work in this class is also rooted in the learning outcomes t
 *
 
 *
+
+## Projects
+
+This quarter we will compose several projects. These include:
+
+* **PierceHacker** -- In this project students, will contribute materials to the PierceHacker project.
+* **Open Pedagogical Resource** -- in this project students will compose a chapter for an [Open Textbook](http://openpedagogy.org/) to be used in future ENGLISH 235 courses at Pierce.
+* **Composing a Community Resource** -- In this project students will identify a problem or issue on campus or in their community that requires detailed technical instructions, policies and/or procedures to solve. As technical writers, students will attempt to intervene in this problem by producing a technical communications resource in response to this particular problem/issue that is of use to their community.
