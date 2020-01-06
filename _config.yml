@@ -7,7 +7,7 @@ permalink:          pretty
 
 markdown:           kramdown
 highlighter:        rouge
-gems:               [jekyll-paginate]
+gems:               [plug-ins]
 
 # Permalinks
 permalink:          pretty
@@ -15,7 +15,7 @@ permalink:          pretty
 # Setup
 title:              "Technical Writing"
 tagline:
-description:        "E235|Pierce College|SP19"
+description:        "E235|Pierce College|W20"
 host:               127.0.0.1
 url:                ""
 baseurl:            "/235v2"
